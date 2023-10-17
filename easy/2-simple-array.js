@@ -10,3 +10,5 @@ function simpleArraySum(ar) {
 
   return sum;
 }
+
+console.log(simpleArraySum([1,3,5]))

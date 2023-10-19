@@ -62,6 +62,7 @@ function diagonalDifference(arr) {
   
   }
   let duplicateRemove = [...new Set(duplicateArray)]
+
   console.log( "duplicate: " , duplicateRemove);
   return {
     original: originalDiagonal,
